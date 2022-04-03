@@ -1,3 +1,7 @@
-# Greetings 👾
+<h1 align="center">Greetings</h1>
 
-[Homepage](https://timschneider.xyz/) · [Twitter](https://twitter.com/RanzigeButter)
+<p align="center">
+  <a href="https://timschneider.xyz/">Website</a>
+  ·
+  <a href="https://twitter.com/RanzigeButter">Twitter</a>
+</p>
