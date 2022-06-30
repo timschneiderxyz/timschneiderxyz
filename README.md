@@ -3,5 +3,5 @@
 <p align="center">
   <a href="https://timschneider.xyz/">Website</a>
   ·
-  <a href="https://twitter.com/RanzigeButter">Twitter</a>
+  <a href="https://twitter.com/timschneiderxyz">Twitter</a>
 </p>
