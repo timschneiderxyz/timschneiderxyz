@@ -1,7 +1,5 @@
-<h1 align="center">Greetings</h1>
+# Greetings
 
-<p align="center">
-  <a href="https://timschneider.xyz/">Website</a>
-  ·
-  <a href="https://twitter.com/timschneiderxyz">Twitter</a>
-</p>
+I'm a developer who focuses on creating awesome websites and optimizing DevOps workflows.
+
+[Website](https://timschneider.xyz/) · [X](https://x.com/timschneiderxyz)
